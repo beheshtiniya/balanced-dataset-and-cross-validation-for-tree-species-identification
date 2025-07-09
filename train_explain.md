@@ -41,6 +41,12 @@ To train the same model architecture multiple times from scratch, allowing compa
 
 ---
 
+📂 Dataset Access
+The weakly labeled and original ground-truth datasets used in this evaluation are publicly available at the following link:
+
+🔗 https://yun.ir/9b88b8
+
+
 ## 📤 Output
 
 - **Model Checkpoints**: Saved in `checkpoints/run_X/` (10 folders for 10 runs)
